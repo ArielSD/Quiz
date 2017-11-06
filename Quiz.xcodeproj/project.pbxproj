@@ -100,8 +100,8 @@
 				B02D55601FAF601F0086D14A /* AppDelegate.swift */,
 				B02D55621FAF601F0086D14A /* ViewController.swift */,
 				B02D55641FAF601F0086D14A /* Main.storyboard */,
-				B02D55671FAF601F0086D14A /* Assets.xcassets */,
 				B02D55691FAF601F0086D14A /* LaunchScreen.storyboard */,
+				B02D55671FAF601F0086D14A /* Assets.xcassets */,
 				B02D556C1FAF601F0086D14A /* Info.plist */,
 			);
 			path = Quiz;
